@@ -6,13 +6,13 @@
   "symbol": "@",
   "name": "Proud Ulink User",
   "name": "SWTOR Fan",
-  "photo": "https://avatars.githubusercontent.com/u/96028955?v=4",
+  "photo": "https://i.gifer.com/7bbq.gif",
   "img_margin": "0",
   "display":"Proud Ulink User",
 
   "links":[
     {"id":"0","title":"Instagram","url":"https://www.instagram.com/star_wars.pictures"},
-    {"id":"0","title":"Youtube","url":"https://www.youtube.com/channel/UCDlfJ0xw7xeU9_bF7DptMlQ"},
-    {"id":"2","title":"LINK 2","url":"https://example.com"}
+    {"id":"1","title":"Youtube","url":"https://www.youtube.com/channel/UCDlfJ0xw7xeU9_bF7DptMlQ"},
+    {"id":"2","title":"Twitter","url":"https://twitter.com/adageen"}
   ]
 }
